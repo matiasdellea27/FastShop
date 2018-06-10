@@ -7,8 +7,16 @@ public class Main {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Danilo Gay");
-
+		
+		int var1=24;
+		if (var1>=22)
+		{
+			System.out.println("HOLA");
+		}
+		else
+		{
+			var1=22;
+		}
 	}
 
 }
